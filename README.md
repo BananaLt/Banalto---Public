@@ -1,4 +1,4 @@
-Versions:  
+Version:  
 C++17,  
 Visual Studio 2022,  
 JUCE 8.0.12  
