@@ -1,7 +1,9 @@
 Versions:
-C++17
-Visual Studio 2022
-JUCE 8.0.12
+C++17,  
+Visual Studio 2022,  
+JUCE 8.0.12  
+
+Video: https://www.youtube.com/watch?v=2l0BOk96IaY
 
 Steps:
 1. Install the JUCE library: https://github.com/juce-framework/JUCE
@@ -16,3 +18,5 @@ Additional Resources:
 1. https://juce.com/learn/tutorials/
 2. https://www.youtube.com/watch?v=i_Iq4_Kd7Rc (This video is very useful.)
 3. https://www.learncpp.com/
+4. https://audiodev.blog/newbie-resources/
+5. A Tour of C++ - Bjarne Stroustrup
